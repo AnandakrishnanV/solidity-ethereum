@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-register": "^6.23.0"
+  },
+  "devDependencies": {
+    "openzeppelin-solidity": "^4.3.2"
+  }
+}
